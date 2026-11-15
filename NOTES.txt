@@ -1,0 +1,65 @@
+Uruguay - published guidance for the officials who decide migration cases
+Checked 2026-11-14/15. Re-run: python3 download_uy.py (from the folder above this one).
+
+Result in one paragraph
+Uruguay publishes almost no guidance for the officials who decide migration and asylum
+cases. The Dirección Nacional de Migración (DNM, Ministerio del Interior: entry/exit
+control, residence permits) and the Comisión de Refugiados (CORE, at the Foreign Ministry)
+put out laws and decrees (through IMPO), applicant pages and FAQs, statistics and press
+releases, but no manuals, circulars, órdenes de servicio or instructivos for their staff.
+The few documents that are addressed to officials are inter-agency protocols: two COVID-era
+protocols for the migration control points (2020, 2021) and a 2011 Foreign Ministry /
+Inmujeres protocol for consulates on trafficking. In July 2026 the Ministerio del Interior
+announced two new "guías de actuación" on trafficking for DNM and identity-card staff; they
+are not online. Real guidance published: 3 documents, all of the protocol type, two of them
+tied to an emergency that is over.
+
+What was saved (3 documents, 4.9 MB, 2011-2021; all kind "guidance")
+- sinae/2021-01  Protocolo de actuación específico para personas solicitantes de refugio
+  (ingreso por puntos de control migratorio en la emergencia sanitaria) - Sinae, MSP, MRREE,
+  MI, MDN with IOM and UNHCR. Announced 19/03/2021 at
+  https://www.gub.uy/sistema-nacional-emergencias/comunicacion/noticias/protocolo-actuacion-para-solicitantes-refugio
+- sinae/2020-04  Protocolo integrado para el ingreso de personas por los Puntos de Entrada
+  (COVID-19).
+- mrree/2011  Protocolo de actuación en embajadas y oficinas consulares sobre trata de
+  mujeres, niñas, niños y adolescentes (MRREE / MIDES-Inmujeres). Carries "© Ministerio de
+  Desarrollo Social".
+Dates: month or year from the document (PDF creation date for the two Sinae protocols).
+The two Sinae PDFs were downloaded by an earlier agent on 2026-11-15 from www.gub.uy; their
+source URLs in index.tsv were matched afterwards by title (search-engine result for the
+exact gub.uy file path), because www.gub.uy then refused further requests (below).
+
+Checked, nothing of the target kind
+- https://www.gub.uy/ministerio-interior/direccion-nacional-migracion (DNM page): tramites,
+  FAQs, "tipos de residencia", "régimen de visas" - applicant information.
+- https://www.gub.uy/ministerio-interior/institucional/normativa (filtered on the migration
+  theme, 4 pages): only laws and decrees, all links to IMPO.
+- https://www.gub.uy/ministerio-interior/comunicacion/publicaciones : FAQs, residence types,
+  a data-protection guide.
+- https://www.gub.uy/ministerio-relaciones-exteriores/institucional/normativa , its
+  publicaciones, site map and "trámites consulares" pages: no CORE resolutions, no consular
+  instructions on visas/residence apart from the trafficking protocol.
+- Junta Nacional de Migración: only a description page in the participation catalogue
+  (https://www.gub.uy/catalogo-participacion-ciudadana/ambitos/junta-nacional-migracion-jnm);
+  no resolutions or minutes published.
+- CORE: no resolutions published; the 2024 prima facie pilot for Venezuelans is known only
+  from press releases.
+- IMPO (www.impo.com.uy, robots Crawl-Delay 10, obeyed): decrees read and NOT taken because
+  they are regulations, not working manuals: 394/009 (main regulation of Ley 18.250), 312/015
+  and 45/023 (art. 33, Mercosur/family residence), 118/018 (residence for vulnerable
+  persons), 136/018 (vaccination for residence), 356/018 (consular competences, art. 30),
+  138/024 and 239/026 (arraigo regularisation programme), 29/025 (SIGMU border system).
+- Audit reports of the Auditoría Interna de la Nación on DNM processes (2015 Departamento de
+  Residencias, 2019 sistema RAMM, 2020), on www.gub.uy/ministerio-economia-finanzas: audits,
+  not guidance; not taken.
+- Applicant "instructivos" for residence (www.gub.uy/tramites/..., uruguayxxi.gub.uy): forms
+  and requirement lists for the public; not taken.
+- Sinae / INAU COVID protocol for children in INAU care: not about migration; not taken.
+
+Refusals and exclusions
+- www.gub.uy: robots.txt allows the paths used, but on 2026-11-15 a page request
+  (.../publicaciones/guia-orientacion-del-programa-residencias-arraigo) answered HTTP 403.
+  Host closed for the rest of the task; nothing on it was requested again.
+- medios.presidencia.gub.uy (executive resolutions): robots.txt answered an error page
+  ("Ha Ocurrido Un Error.") to the earlier agent; not used.
+- Internet Archive not used for Uruguay.
